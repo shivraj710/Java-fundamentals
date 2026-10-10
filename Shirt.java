@@ -10,7 +10,7 @@ class Shirt{
     }
 
     public static void main(String[] args){
-        Shirt myshirt = new Shirt("ZARA", 40);
+        Shirt myshirt = new Shirt("ALLEN SOLLY", 40);
         System.out.println("Brand - " +myshirt.Brand);
         System.out.println("Size - " +myshirt.Size);
 
